@@ -182,6 +182,10 @@ $$
 
 
 
+  $\bullet$ `26''` Let $A_1, A_2, A_3$ be three distinct points in $\mathbb{C P}^1$ and let $n \geqslant 3$ be an integer. Show that there is $\tau \in \mathrm{PGL}(2, \mathbb{C})$ such that $\tau\left(A_1\right)=A_2, \tau\left(A_2\right)=A_3$ and $\tau$ has order $n$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/26''Apr2023.html)** 
+
+
+
   $\bullet$ `25` 斜率作为二元函数是连续的?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Apr2023.html)**
 
 
@@ -198,6 +202,14 @@ $$
 
 
 
+  $\bullet$ `14` 交比与 Moebius 变换的关系?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/14Apr2023.html)**
+
+
+
+  $\bullet$ `11` $f(\alpha)=\int_0^\pi\ln(1-2\alpha\cos x+\alpha^2)\mathrm dx=2\pi\ln|\alpha|$ for $|\alpha|>1$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/11Apr2023.html)**
+
+
+
   $?$ `06` 猜牌游戏.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/06Apr2023.html)**
 
 
@@ -208,24 +220,56 @@ $$
 
 #### March
 
-
-
   $\bullet$ `31` 证明存在 ${\mathbb R}^2$ 的稠密子集, 在每条垂直线上最多包含一个点, 在每条水平线上最多包含一个点.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/31Mar2023.html)**
+
+
+
+  $\bullet$ `30` 单调序列 $\{\sin\frac{\pi k}{n}:k=1,2,\ldots,\lfloor n/2\rfloor-1\}$ 是否在 $\mathbb Q$ 上线性无关?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/30Mar2023.html)** 
 
 
 
   $\bullet$ `27` 设 $f(x)$ 为 $[0,1]$ 上的取值于实数的可测函数.
 
-1. 是否存在实数 $c$ 使得 $m\{x\in [0,1]:f(x)c\}=\frac{1}{2},m\{x\in [0,1]:f(x)\geq c\}=\frac{1}{2}$ ?
-2. 是否存在实数 $c$ 使得 $m\{x\in [0,1]:f(x)\leq c\}\geq \frac{1}{2},m\{x\in [0,1]:f(x)\geq c\}\geq \frac{1}{2}$ ?
+1. 是否存在实数 $c$ 使得 $m\{x\in [0,1]:f(x)\leq c\}=\frac{1}{2},m\{x\in [0,1]:f(x)\geq c\}=\frac{1}{2}$? 
+2. 是否存在实数 $c$ 使得 $m\{x\in [0,1]:f(x)\leq c\}\geq \frac{1}{2},m\{x\in [0,1]:f(x)\geq c\}\geq \frac{1}{2}$? 
 
  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/27Mar2023.html)** 
 
 
 
+  $\bullet$ `26` 设 $f(x)$ 在任意的有穷区间 $[0,A]$ 上黎曼可积, 且 $\lim_{x \rightarrow + \infty}f(x) = 0$. 求证: $\lim_{x \rightarrow + \infty}\frac{1}{t}\int_{0}^{t}\left| f(x) \right|dx = 0$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/26Mar2023.html)** 
+
+
+  $\bullet$ `25` 若整系数首一多项式 $f(x)$ 在 $\mathbb C$ 上的因式分解为 $\prod_{i=1}^n (x-\alpha_i)$, 则对任意整系数多项式 $g$, 是否一定有 $\prod_{i=1}^n(x-g(\alpha_i))\in \mathbb Z[x]$?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Mar2023.html)** 
+
+
+  $\bullet$ `24` $\mathbb R$ 上的可测函数空间上的等价关系 $\sim$ 定义为 $f\sim g$ $f$ 与 $g$ 几乎处处相等. 找一个 $h$ 是单射的例子，$f\sim g$，但是 $f\circ h\not\sim g\circ h$. **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/24Mar2023.html)** 
 
 
 
+  $\bullet$ `21` 多项式 $f(x)=\prod_{i=1}^{18}(x-i)+23$ 在有理数域中不可约.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/21Mar2023.html)** 
+
+
+
+  $\bullet$ `17` $x^2+ax+b$ 能不能写成两个周期函数之和?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/17Mar2023.html)** 
+
+
+
+  $\bullet$ `16` Show that group with order $350$ is solvable.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/16Mar2023.html)** 
+
+
+
+  $\star$ `16'` 给定 $2$ 个三角形, 是否存在一个仿射变换把它们映到相似三角形?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/16'Mar2023.html)** 
+
+
+
+  $\bullet$ `15` $\theta_j\in\mathbb R,\sum_{j=1}^4\theta_j=0,$ 设 $\begin{cases}X=\frac14\sum_{j=1}^4\cos \theta_j\\
+Y=\frac14\sum_{j=1}^4\sin \theta_j
+\end{cases}$. 求证, $(X,Y)$ 的解集是 $|X|^{2 / 3}+|Y|^{2 / 3} \leq 1$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/15Mar2023.html)** 
+
+
+
+  $\bullet$ `05` $A:=\begin{pmatrix}2&X\\0&2\end{pmatrix}$ is not equivalent to any diagonal matrix.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/05Mar2023.html)** 
 
 
 
