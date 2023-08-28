@@ -120,6 +120,10 @@ $$
 
 #### May
 
+  $\bullet$ 对于定义在 $R$ 上的函数 $f(x)$, 若 $f(x)=x$ 有 $2$ 个根, $f[f(x)]=x$ 有 $4$ 个根, 证明: 不存在函数 $g(x)$ 满足$f(x)=g[g(x)]$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/30May2023.html)**
+
+
+
   $\bullet$ `29` How to prove the preimage of $U(N,a)$, $\displaystyle\left\{\sum_{n=1}^\infty \frac{a_n}{3^n}\mid a_N=2a\right\}$, is open in the Cantor set?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/29May2023.html)**
 
 
@@ -132,7 +136,15 @@ $$
 
 
 
+ $\star$ `20` Let $a_1, a_2, \ldots , a_n$ be real numbers such that $a_1 +\dots+ a_n = 0$ and $a^2_1 +\dots+ a^2_n = 1$. What is the maximum value of $a_1a_2 + a_2a_3 + \dots+ a_{n−1}a_n + a_na_1$ ?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/20May2023.html)**
+
+
+
   $\bullet$ `18` $G$ 的所有 Sylow 子群都不正规, 那么 $G$ 是单群吗?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/18May2023.html)**
+
+
+
+  $\star$ `16` 正整数$m,n$, 有多少个映射 $f:\mathbb Z_n\to \mathbb Z_m,f(a+b)=f(a)+f(b),f(a\times b)=f(a)\times f(b)$ ?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/16May2023.html)**
 
 
 
@@ -140,15 +152,57 @@ $$
 
 
 
-  $\star$ `04` Over a finite field, for each $n\in \mathbb N$ there is an irreducible polynomial of degree $n$  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/04May2023.html)**
+  $\star$ `06` 群 $G$ 有同构于 $H$ 的子群, 群 $H$ 亦有同构于 $G$ 的子群, 则 $G\simeq H$ ?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/15May2023.html)** 
+
+
+
+  $\star$ `04` Over a finite field, for each $n\in \mathbb N$ there is an irreducible polynomial of degree $n$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/04May2023.html)**
 
 
 
 #### April
 
+  $?$ `30` $\sqrt [3]2$ 能以有理度数的三角函数表示出吗?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/30Apr2023.html)**
+
+
+
+  $\star$ `30'` 将 $n$ 个球 独立, 概率均匀地随机扔进 $n$ 个盒子, 证明 $\Pr(\text {盒子1中的球数} ≥k ) \leq\binom nk\left(\frac{1}{n}\right)^{k}$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/30'Apr2023.html)**
+
+
+
+  $\bullet$ `29` 证明存在一个自然数 $n$, 满足以下条件: 它不可被 $10$ 整除, 它的十进制表示中至少有 $100$ 个数字, 并且可以交换 $n$ 的两个不同数字，得到与 $n$​ 有相同质因数集的数字.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/29Apr2023.html)**
+
+
+
+  $\bullet$ `26` 是否存在 $\mathbb RP^1\times \mathbb RP^1\to \mathbb RP^2$ 的连续满射?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/26Apr2023.html)**
+
+
+
+  $\star$ `26'` Let $\{a_n:1\leq n<\infty\}$ be non-negative numbers, not all zero. Then $\left(\sum a_n\right)^4<\pi^2\left(\sum a_n^2\right)\left(\sum n^2a_n^2\right)$. The constant $π^2$​ is best possible.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/26'Apr2023.html)**
+
+
+
+  $\bullet$ `25` 斜率作为二元函数是连续的?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Apr2023.html)**
+
+
+
+  $\bullet$ `23` 全纯函数 $f:\mathbb{D} \rightarrow \mathbb{D}$, 如果 $f$ 在 $\bar B_{1/3}(0)$ 有 50 个根, 证明 $|f(0)|\leq 1/3^{50}$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/23Apr2023.html)**
+
+
+
+  $\bullet$ `22` 若 $f(x)$ 图像上存在相异的两点 $P$, $Q$, 使得曲线 $y=f(x)$ 在点 $P$, $Q$ 的切线重合, 则称 $y=f(x)$ 是双切函数. 对于 $f(x)=x^4+bx^3+cx^2+dx+e$ , 求证, $y=f(x)$ 是双切函数的充要条件是 $3b^2>8c$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/22Apr2023.html)**
+
+
+
   $?$ `18` $\liminf s_n+\liminf t_n$ 和 $\liminf (s_n+t_n)$ 什么时候相等?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/18Apr2023.html)**
 
 
+
+  $?$ `06` 猜牌游戏.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/06Apr2023.html)**
+
+
+
+  $?$ 05 随机数求和, 直至加到 $1$ 停止, 结果期望为何?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/05Apr2023.html)** 
 
 
 
@@ -159,6 +213,13 @@ $$
   $\bullet$ `31` 证明存在 ${\mathbb R}^2$ 的稠密子集, 在每条垂直线上最多包含一个点, 在每条水平线上最多包含一个点.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/31Mar2023.html)**
 
 
+
+  $\bullet$ `27` 设 $f(x)$ 为 $[0,1]$ 上的取值于实数的可测函数.
+
+1. 是否存在实数 $c$ 使得 $m\{x\in [0,1]:f(x)c\}=\frac{1}{2},m\{x\in [0,1]:f(x)\geq c\}=\frac{1}{2}$ ?
+2. 是否存在实数 $c$ 使得 $m\{x\in [0,1]:f(x)\leq c\}\geq \frac{1}{2},m\{x\in [0,1]:f(x)\geq c\}\geq \frac{1}{2}$ ?
+
+ **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/27Mar2023.html)** 
 
 
 
