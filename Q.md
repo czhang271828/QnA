@@ -6,7 +6,7 @@
 
 ## 页 面 说 明
 
-  $\triangle$ 本页面搜集答疑内容, 主要是一些初高中的题目. 
+  $\triangle$ 本页面搜集答疑内容, **主要是一些初高中的题目**. 
 
   $\triangle$ 题目格式为 $\langle$ 符号 + `日期(日)` + 题目正文 + **[$\boxed{\text{解答}}$]()** $\rangle$. 
 
@@ -24,7 +24,15 @@
 
 #### Aug
 
-  $\star$ `25` 若实数 $x$, $y$, $z$, $w$ 满足 $x+\dfrac1{x^3}=2y$, $y+\dfrac1{y^3}=2z$, $y+\dfrac1{y^3}=2z$, $w+\dfrac1{w^3}=2x$, 求 $x$, $y$, $z$, $w$ 的值. **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Aug2023.html)** 
+  $\bullet$ `30` 已知数列通项 $a_n=n^3-4$, $n\in \mathbb N_+$. 求 $\gcd(a_n,a_{n+1})$ 中最大的项.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Aug2023.html)** 
+
+
+
+  $\bullet$ `28` $f(x)=x+\frac{a}2$ 满足 $f(x)-f^{-1}(x)=a$. 问题: 有没有其它函数 $f(x)$ 满足 $f(x)-f^{-1}(x)=a$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/28Aug2023.html)** 
+
+
+
+  $\star$ `25` 若实数 $x$, $y$, $z$, $w$ 满足 $x+\dfrac1{x^3}=2y$, $y+\dfrac1{y^3}=2z$, $y+\dfrac1{y^3}=2z$, $w+\dfrac1{w^3}=2x$, 求 $x$, $y$, $z$, $w$ 的值.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Aug2023.html)** 
 
 
 
@@ -269,7 +277,19 @@ Y=\frac14\sum_{j=1}^4\sin \theta_j
 
 
 
+  $?$ 如何理解 Gauss 定理?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/08Mar2023.html)** 
+
+
+
   $\bullet$ `05` $A:=\begin{pmatrix}2&X\\0&2\end{pmatrix}$ is not equivalent to any diagonal matrix.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/05Mar2023.html)** 
+
+
+
+  $\star$ `04` Show that if $R$ is the [ring of continuous functions](https://planetmath.org/ringofcontinuousfunctions) on $ℝ$ with pointwise addition and multiplication. If $R/RA$ is $R$-linearly isomorphic to $R/RB$, then $A\sim B$ ($A$ and $B$ differ from the multiplication of unit)?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/04Mar2023.html)** 
+
+
+
+  $\bullet$ `01` The [ring of continuous functions](https://planetmath.org/ringofcontinuousfunctions) $C(\Bbb R)$ has an ideal $S=\set{f\in C(\Bbb R):f(0)=0}$. Is $S$ finitely generated?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/01Mar2023.html)** 
 
 
 
@@ -279,6 +299,28 @@ Y=\frac14\sum_{j=1}^4\sin \theta_j
 
 
 
+  $\bullet$ `26'` Factor a linear map $R^m\to M$ through $R^n$. If $\ker \psi$ is finitely generated then $\ker \phi$ is finitely generated too.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/26'Feb2023.html)**
+
+
+
+  $\bullet$ `17` 直纹面 $r=a(u) + v b(u)$, $b$ 都取母线上的单位向量. 为何可以规定 $a^\prime(u)$ 与 $b(u)$ 垂直?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/17Feb2023.html)**
+
+
+
+  $\star$ `11` 证明 $\overline{\mathbb{Z}}:=\{z \in \mathbb{C}\mid f(z)=0 \text{ for a monic polynomial } f\in \mathbb{Z}[X]\}$ 是一个环?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/11Feb2023.html)**
+
+
+
+  $\star$ `08` 存在这样一个函数吗? 处处不连续但对 $x$, $y$ 分别连续.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/08Feb2023.html)**
+
+
+
+  $?$ `05` 关灯游戏的策略?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/05Feb2023.html)**
+
+
+
+  $\bullet$ `03` $f:X\to Y$, $A\subset X$, $U\subset Y$, $f^{-1}(U)\cap A=\varnothing$ 能否推出 $U\cap f(A)=\varnothing$. 其中 $f^{-1}(U)$ 为 $U$ 的原像.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/03Feb2023.html)** 
+
 
 
 #### January
@@ -287,7 +329,15 @@ Y=\frac14\sum_{j=1}^4\sin \theta_j
 
 
 
+  $\star$ `28` $x_1$, $x_2$, $x_3$ 为整系数三次方程的不同的根, $x_1-x_2\in\Bbb Q$, 则$x_1$, $x_2$, $x_3\in\Bbb Q$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/28Jan2023.html)**
 
+
+
+  $\bullet$ `26` $\mathbb R^2$上的通常加法为$(a,b)+(c,d)=(a+c,b+d)$, 我们知道$(\mathbb R^2,+)$是一个群. 问题: 有几种$\times$的定义, 使得$(\mathbb R^2,+,\times)$是一个环?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/26Jan2023.html)**
+
+
+
+  $\bullet$ `24` Are $\mathbb R/\mathbb Z$ the quotient group $ℝ/ℚ$ the additive group of a ring?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/24Jan2023.html)**
 
 ### 2022 年
 

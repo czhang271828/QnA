@@ -1,3 +1,5 @@
+
+
 Q: 可交换矩阵的结构? 原题
 
 > 复数域上 $n$ 维线性空间 $V$ 的线性变换 $A$ 的所有特征值组成的 $n$ 元数组 $(\lambda_1,\lambda_2,\ldots,\lambda_n)$ 称为 $A$ 的**谱(spectrum)**, 如果 $A$ 的所有特征值都是 $1$ 重的, 则 $A$ 的谱称为**单**的.
@@ -107,3 +109,9 @@ Step 4. 回代求得 $X$. 从而得到 $AX-XB=O$ 解的一般形式.
 3. $A$ 的可交换矩阵的可交换矩阵一定是原矩阵的多项式.
 
 > 以上的 $(AX-XB=O)$ 只是给了 $(AX-XB=C)$ 通解的部分. 部分特解可通过[低秩逼近](https://en.wikipedia.org/wiki/Low-rank_approximation#:~:text=In mathematics%2C low-rank approximation,approximating matrix has reduced rank.)与[广义 Cauchy 矩阵](https://en.wikipedia.org/wiki/Cauchy_matrix#Generalization)得到. 
+
+
+
+***
+
+**[$\boxed{\Longleftarrow \text{返回答疑题库}}$](https://czhang271828.github.io/QnA/Q.html)** 
