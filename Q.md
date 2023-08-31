@@ -18,11 +18,17 @@
 
 ​		$\bullet$ 表示问题十分常规.  
 
+  $\triangle$ 2022 年 1 月 1 日前的答疑记录大部分缺失. 
+
 ## 答疑内容
 
 ### 2023 年
 
 #### August
+
+$\bullet$ `31` Is $X:=\left\{x∈ℓ^2:\left(j x_j\right)∈ℓ^1\right\} ⊂ ℓ^2$ a Banach space?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/31Aug2023.html)** 
+
+
 
 $\bullet$ `30` 已知数列通项 $a_n=n^3-4$, $n\in \mathbb N_+$. 求 $\gcd(a_n,a_{n+1})$ 中最大的项.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/25Aug2023.html)** 
 
@@ -41,8 +47,6 @@ $\bullet$ `23` 若 $x$, $y$, $z$ 是至多有一个为 $0$ 的非负实数, 证�
 
 
 $\bullet$ `05` 一个二部图, 左边有 $12$ 个点，对于左边的任意大小为 $8$ 的点集, 右边都恰有 $16$ 个点与之相连; 对于左边的任意大小为 $10$ 的点集, 右边都恰有 $20$ 个点与之相连. 求证: 右边共有 $24$ 个点和左边的点有联边. **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/05Aug2023.html)** 
-
-
 
 
 
@@ -502,7 +506,15 @@ $\star$ `03` 可交换矩阵的结构?  **[$\boxed{\text{解答}}$](https://czha
 
 $\bullet$ `15` 求证极限 $\displaystyle\lim_{n\to \infty} \sum_{i=2}^n(-1)^{i-1}\arctan\dfrac{b}{b/a+(i-1)n}=-\dfrac{1}{2}\arctan a-\dfrac{1}{2}\arctan\dfrac{ab}{a+b}$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/15Jan2022.html)**
 
+
+
+$\bullet$ `15` 证明悬链曲面与螺旋曲面局部等距?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/15'Jan2022.html)**
+
 ### 2021
+
+#### June
+
+$\star$ `20` 若 $f:\mathbb R\to \mathbb R$ 满足 $f(x+y)=f(x)+f(y)$, 则是否有 $f(x)=xf(1)$?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/20Jun2021.html)** 
 
 
 
