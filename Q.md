@@ -42,6 +42,10 @@ $\star$ `25` 若实数 $x$, $y$, $z$, $w$ 满足 $x+\dfrac1{x^3}=2y$, $y+\dfrac1
 
 
 
+$\star$ `24` 设 $f$ 是 $\mathbb R$ 上单调, 连续, 且满足 $f(x+1)=f(x)+1$ 的实函数. $f^n$ 是 $f$ 的 $n$-次复合. 记 $\varphi _n(x)=f^n-x$. 证明 $\lim_{n\to\infty}\dfrac{\varphi_n(x)}{n}$ 是常函数.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/24Aug2023.html)** 
+
+
+
 $\bullet$ `23` 若 $x$, $y$, $z$ 是至多有一个为 $0$ 的非负实数, 证明: $\sqrt{\dfrac{x^2+8yz}{y^2+z^2}}+\sqrt{\dfrac{y^2+8zx}{z^2+x^2}}+\sqrt{\dfrac{z^2+8xy}{x^2+y^2}}\geqslant 4$. **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/23Aug2023.html)** 
 
 
