@@ -34,6 +34,10 @@ $\bullet$ `30` 已知数列通项 $a_n=n^3-4$, $n\in \mathbb N_+$. 求 $\gcd(a_n
 
 
 
+$\star$ `29` 旅行者从水井出发, 准备穿越 $20$ 公里沙漠, 背包容积 $10$ 升. 若每走 $1$ 公里消耗 $1$ 升水, 则旅行者至少需要汲多少水? 假设水均匀消耗, 沙漠中无水源但可储水.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/29Aug2023.html)** 
+
+
+
 $\bullet$ `28` $f(x)=x+\frac{a}2$ 满足 $f(x)-f^{-1}(x)=a$. 问题: 有没有其它函数 $f(x)$ 满足 $f(x)-f^{-1}(x)=a$.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/28Aug2023.html)** 
 
 
@@ -54,9 +58,15 @@ $\bullet$ `05` 一个二部图, 左边有 $12$ 个点，对于左边的任意大
 
 
 
+#### July
+
+$\bullet$ `28` 假设 $N$ 是 $G$ 的正规子群, $H$ 是 $G$ 的子群, $H$ 同构于 $G/N$, 并且 $H\cap N＝\{1\}$. 能否推出 $G=HN$?  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/28Jul2023.html)** 
+
+
+
 #### June
 
-$\bullet$ `24` 给定实数 $k>1$, 设 $0<a_1<1$, $a_{n+1}=a_n+\dfrac{a_n^k}{n^k}$, $n=1,2,3,\ldots$. 证明 $\{a_n\}$ 有下界. **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/24Jun2023.html)** 
+$\bullet$ `24` 给定实数 $k>1$, 设 $0<a_1<1$, $a_{n+1}=a_n+\dfrac{a_n^k}{n^k}$, $n=1,2,3,\ldots$. 证明 $\{a_n\}$ 有下界.  **[$\boxed{\text{解答}}$](https://czhang271828.github.io/QnA/q/24Jun2023.html)** 
 
 
 
